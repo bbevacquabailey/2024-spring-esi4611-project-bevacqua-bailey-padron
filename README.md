@@ -2,7 +2,7 @@
 
 a description of the contents of the repository
 
-a reference/link to the competition/project title
+Kaggle Competition Link: (https://www.kaggle.com/competitions/planttraits2024/overview)
 
 instructions for obtaining the data (which should not be uploaded to the repository)
 
