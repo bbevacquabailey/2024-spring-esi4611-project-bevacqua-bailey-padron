@@ -6,4 +6,4 @@ Kaggle Competition Link: (https://www.kaggle.com/competitions/planttraits2024/ov
 
 instructions for obtaining the data (which should not be uploaded to the repository)
 
-list of dependencies (packages used by the project) and short explanation of what these packages are needed for
+See "dependencies.ipynb" for list of dependencies
